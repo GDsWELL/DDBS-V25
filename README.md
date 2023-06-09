@@ -16,6 +16,8 @@ APK CLIENT :
 3. open the folder and run main.py
 
 
+source will be uploaded soon 
+
 
 
 
