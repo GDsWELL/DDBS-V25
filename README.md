@@ -3,7 +3,7 @@ DDBS-V25 this is a private server for brawl stars on the version V25
 
 Telegram channel : https://t.me/archivesleak
 
-APK CLIENT : 
+APK CLIENT : https://www.dropbox.com/s/sksgmze6hqydre8/DDBSv25.apk?dl=1
 
 ## Requirements: ##
 1. especially for dudok
@@ -16,7 +16,6 @@ APK CLIENT :
 3. open the folder and run main.py
 
 
-source will be uploaded soon 
 
 
 
