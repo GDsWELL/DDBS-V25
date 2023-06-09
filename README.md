@@ -15,7 +15,7 @@ APK CLIENT : https://www.dropbox.com/s/sksgmze6hqydre8/DDBSv25.apk?dl=1
 2. decompress it
 3. open the folder and run main.py
 
-Just edit the IP in the frida-gadget config (/lib/armeabi-v7a/libarcade.config.so) {"interaction":{"interaction":{"type":"script","path":"libscript.so","on_change":"reload","parameters":{"redirectHost":"YOUR_IP","relocate":true}}}
+Just edit the IP in the frida-gadget config (/lib/armeabi-v7a/libarcade.config.so)
 
 
 
