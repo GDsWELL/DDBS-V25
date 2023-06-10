@@ -16,7 +16,7 @@ APK CLIENT : https://www.dropbox.com/s/sksgmze6hqydre8/DDBSv25.apk?dl=1
 3. open the folder and run main.py
 
 
-## Change the ip address and port (if needed) in libarcade.config.so located in the lib folder ##
+## Change the ip address (if needed) in libarcade.config.so located in the lib folder ##
 
 Just edit the IP in the frida-gadget config (/lib/armeabi-v7a/libarcade.config.so)
 
